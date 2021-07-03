@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>Przykład Gówna </title>
+    <meta name="description" content="">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="css.css">
+</head>
+
+<body>
+
+    <div id="logo">
+
+    </div>
+
+    <div id="menu">
+        <ul>
+            <li>Home</li>
+            <li>Oferta</li>
+            <li>Galeria</li>
+            <li>kontakt</li>
+        </ul>
+    </div>
+
+
+
+
+</body>
+
+</html>
