@@ -1,0 +1,143 @@
+<!--HTML-->
+
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>Przykład Gówna </title>
+    <meta name="description" content="">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="css.css">
+</head>
+
+<body>
+
+
+    </div>
+    <header>
+        <div class="border-t-4 border-orange bg-white"></div>
+
+        <div id="logo">
+            logotyp
+        </div>
+        <!--menu list-->
+        <div class="menu text-gray hover:text-orange">
+            <ul>
+                <a href="index.html" class="text-gray text-orange">Documentation</a>
+                <a href="index.html" class="text-gray hover:text-orange">Blog</a>
+                <a href="index.html" class="text-gray hover:text-orange">Community</a>
+                <a href="index.html" class="text-gray hover:text-orange">Support</a>
+                <a href="index.html" class="text-gray hover:text-orange">GitHub</a>
+
+            </ul>
+        </div>
+    </header>
+
+ipsum
+
+
+    <section>
+        <!--information about the team-->
+        <div id="ohuj">
+
+            teststafagfagzcvzvzs
+
+        </div>
+        <!--the work of the entire team-->
+        <div id="gallery">
+
+        </div>
+        <!--Team member list-->
+        <div id="team">
+
+        </div>
+        <!--TEAM CV-->
+        <div id="cv"></div>
+
+
+    </section>
+    <!--Poniżej znajduje się kontakt w stopce-->
+    <footer>
+        <div id="footercontact">
+            <h4>Skontaktuj się ze mną</h4>
+            <form action="index.html">
+                <label for="name">Imię</label>
+                <input type="text" name="name"><br>
+                <label for="name">Nazwisko</label>
+                <input type="text" name="name"><br>
+
+                <label for="email">e-m@il</label>
+                <input type="text" name="name">
+                <button type="sumbit">Wyślij</button><br>
+            </form>
+        </div>
+
+    </footer>
+
+    <div id="footer_team">
+
+        <p>Copyright &copy; Patryk Warycha 2021 All Rights Reserved</p>
+        Stworzone z ♥ do internetu
+
+    </div>
+
+</body>
+
+
+</html>
+
+<!--CSS>
+
+body {
+    margin: 0;
+    text-decoration: none;
+    color: black;
+    background-color: white;
+    font-family: Tahoma;
+    font-size: 13px;
+    overflow-x: hidden;
+}
+
+.a {
+    background-color: transparent;
+}
+
+.menu {
+    margin: 0;
+    margin-top: 1px;
+    height: 40x;
+    width: 100%;
+}
+
+.border-t-4 {
+    border-top-width: 4px;
+}
+
+.border-orange {
+    border-opacity: 1;
+    border: 4px solid #c7442e;
+}
+
+.bg-white {
+    bg-opacity: 1;
+    background-color: white;
+    bg-opacity
+}
+
+.text-gray {
+    text-decoration: none;
+    color: #718096;
+    text-opacity: 1;
+    word-spacing: 10px;
+    height: 40px;
+    width: 100%;
+    position: relative;
+    margin-right: 0px;
+}
+
+.text-gray:hover {
+    color: #e9902b;
+    text-opacity: 1;
+}
